@@ -328,11 +328,17 @@ https://github.com/user-attachments/assets/d61cbf85-8a01-4065-b9d7-003ee2cd630d
 
 ```bash
 📢 This video demonstrates the working and implementation of a fire detection system.
+
 ➤ The flame sensor is connected to the Aries v3.0 board to detect the presence of fire.
+
 ➤ The sensor continuously monitors for flames and sends real-time data to the Arduino.
+
 ➤ The Arduino receives the sensor data and processes it accordingly.
+
 ➤ The processed data is displayed in the Serial Monitor, allowing users to observe sensor readings.
+
 ➤ When the flame sensor detects fire, it triggers an alert mechanism.
+
 ➤ The buzzer is activated as an alarm to notify individuals of the imminent danger.
 ```
 
