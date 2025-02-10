@@ -326,6 +326,7 @@ void loop() {
 
 https://github.com/user-attachments/assets/d61cbf85-8a01-4065-b9d7-003ee2cd630d
 
+```bash
 📢 This video demonstrates the working and implementation of a fire detection system.
 - The flame sensor is connected to the Aries v3.0 board to detect the presence of fire.
 - The sensor continuously monitors for flames and sends real-time data to the Arduino.
@@ -333,6 +334,7 @@ https://github.com/user-attachments/assets/d61cbf85-8a01-4065-b9d7-003ee2cd630d
 - The processed data is displayed in the Serial Monitor, allowing users to observe sensor readings.
 - When the flame sensor detects fire, it triggers an alert mechanism.
 - The buzzer is activated as an alarm to notify individuals of the imminent danger.
+```
 
 ![Fire Detection](https://github.com/user-attachments/assets/01892051-851a-424e-bbab-d0173c7e4849)
 
@@ -342,6 +344,7 @@ https://github.com/user-attachments/assets/d8a27665-8dd0-4c48-a1c8-66d9cad4cc77
 
 https://github.com/user-attachments/assets/a7c87fcd-87e8-4e0f-b2f3-a0556c34ada8
 
+```bash
 📢 This video demonstrates the working and implementation of an automatic light control system using an LDR (Light Dependent Resistor) sensor.
 - The LDR module is connected to the Aries v3.0 board to detect changes in ambient light levels.
 - The sensor continuously monitors the surrounding light intensity and sends real-time data to the Arduino.
@@ -349,6 +352,7 @@ https://github.com/user-attachments/assets/a7c87fcd-87e8-4e0f-b2f3-a0556c34ada8
 - When the LDR detects darkness, it triggers the blue bulb, and the lights are automatically switched on.
 - When natural daylight is detected, the system turns off the light bulb to conserve energy.
 - To simulate darkness in this video, the LDR sensor is covered using a box, demonstrating how the system responds in low-light conditions.
+```
 
 ![Light Intensity](https://github.com/user-attachments/assets/fed29bd8-92c5-43c1-b53f-8244606c48e8)
 
@@ -356,6 +360,7 @@ https://github.com/user-attachments/assets/a7c87fcd-87e8-4e0f-b2f3-a0556c34ada8
 
 https://github.com/user-attachments/assets/8e39206d-2036-4223-8251-fb5d98c39daa
 
+```bash
 📢 This video demonstrates the working and implementation of an air quality monitoring and automation system using the MQ-135 gas sensor.
 - The MQ-135 gas sensor module is connected to the Aries v3.0 board to detect changes in air quality.
 - The sensor continuously monitors the surrounding air and sends real-time data to the Arduino.
@@ -364,6 +369,7 @@ https://github.com/user-attachments/assets/8e39206d-2036-4223-8251-fb5d98c39daa
 - When good air quality is detected, the system turns off the light bulb.
 - Ideally, the light bulb will be replaced with fans or other relevant loads that help improve air quality and ventilation.
 - In this video, the light bulb is used temporarily to demonstrate the system’s functionality.
+```
 
 ![Ventilation](https://github.com/user-attachments/assets/7f73b655-8151-43f2-8948-1eaa1d40fc1a)
 
@@ -371,12 +377,14 @@ https://github.com/user-attachments/assets/8e39206d-2036-4223-8251-fb5d98c39daa
 
 https://github.com/user-attachments/assets/49890077-9847-451e-918a-f1e012c9c470
 
+```bash
 📢 This video demonstrates an automated lighting system using a PIR sensor for motion-based automation.
 - The PIR sensor module is connected to the Aries v3.0 board to detect motion from living beings.
 - The sensor continuously monitors the surroundings and sends real-time data to the Arduino.
 - The Arduino processes the received data and displays the readings in the Serial Monitor.
 - When the PIR sensor detects movement, it triggers the yellow bulb, and the lights are automatically switched on.
 - When no motion is detected, the system turns off the light bulb, conserving energy.
+```
 
 ![Motion Detection](https://github.com/user-attachments/assets/db2da071-9d90-44bc-93af-8020e7e6f023)
 
