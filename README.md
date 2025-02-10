@@ -352,11 +352,17 @@ https://github.com/user-attachments/assets/a7c87fcd-87e8-4e0f-b2f3-a0556c34ada8
 
 ```bash
 📢 This video demonstrates the working and implementation of an automatic light control system using an LDR (Light Dependent Resistor) sensor.
+
 ➤ The LDR module is connected to the Aries v3.0 board to detect changes in ambient light levels.
+
 ➤ The sensor continuously monitors the surrounding light intensity and sends real-time data to the Arduino.
+
 ➤ The Arduino processes the received data and displays the readings in the Serial Monitor.
+
 ➤ When the LDR detects darkness, it triggers the blue bulb, and the lights are automatically switched on.
+
 ➤ When natural daylight is detected, the system turns off the light bulb to conserve energy.
+
 ➤ To simulate darkness in this video, the LDR sensor is covered using a box, demonstrating how the system responds in low-light conditions.
 ```
 
@@ -368,12 +374,19 @@ https://github.com/user-attachments/assets/8e39206d-2036-4223-8251-fb5d98c39daa
 
 ```bash
 📢 This video demonstrates the working and implementation of an air quality monitoring and automation system using the MQ-135 gas sensor.
+
 ➤ The MQ-135 gas sensor module is connected to the Aries v3.0 board to detect changes in air quality.
+
 ➤ The sensor continuously monitors the surrounding air and sends real-time data to the Arduino.
+
 ➤ The Arduino processes the received data and displays the air quality readings in the Serial Monitor.
+
 ➤ When the MQ-135 sensor detects poor air quality, it triggers the incandescent filament light bulb, turning the lights on as an alert mechanism.
+
 ➤ When good air quality is detected, the system turns off the light bulb.
+
 ➤ Ideally, the light bulb will be replaced with fans or other relevant loads that help improve air quality and ventilation.
+
 ➤ In this video, the light bulb is used temporarily to demonstrate the system’s functionality.
 ```
 
@@ -385,10 +398,15 @@ https://github.com/user-attachments/assets/49890077-9847-451e-918a-f1e012c9c470
 
 ```bash
 📢 This video demonstrates an automated lighting system using a PIR sensor for motion-based automation.
+
 ➤ The PIR sensor module is connected to the Aries v3.0 board to detect motion from living beings.
+
 ➤ The sensor continuously monitors the surroundings and sends real-time data to the Arduino.
+
 ➤ The Arduino processes the received data and displays the readings in the Serial Monitor.
+
 ➤ When the PIR sensor detects movement, it triggers the yellow bulb, and the lights are automatically switched on.
+
 ➤ When no motion is detected, the system turns off the light bulb, conserving energy.
 ```
 
