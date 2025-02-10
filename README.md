@@ -21,7 +21,7 @@ This repository presents the design and implementation of an IoT-powered Smart H
   - [5V Piezoelectric Buzzer](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#5V-Piezoelectric-Buzzer)
   - [ESP8266 Wi-Fi Module](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#ESP8266-Wi-Fi-Module)
 - [Working Code](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#Working-Code)
-- [Appliation Video](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#appliation-video)
+- [Appliation Video](https://github.com/Sree-Vishnu-Varthini/Smart-Home/blob/master/README.md#application-video)
    - [Fire Alarm](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#Fire-Alarm)
    - [Light Intensity Control (Light ON/OFF)](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#Light-Intensity-Control-(Light-ON/OFF))
    - [Ventilation](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#Ventilation)
