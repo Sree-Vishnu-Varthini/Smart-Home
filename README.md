@@ -17,7 +17,7 @@ This repository presents the design and implementation of an IoT-powered Smart H
   - [DHT11 Temperature & Humidity Sensor](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#2-DHT11-Temperature--Humidity-Sensor)
   - [HC-SR501 PIR Sensor](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#3-HC-SR501-PIR-Sensor)
   - [ADIY Flame Sensor Module](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#4-ADIY-Flame-Sensor-Module)
-  - [Light Dependent Resistor (LDR) Module](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#5-Light-Dependent-Resistor-(LDR)-Module)
+  - [Light Dependent Resistor (LDR) Module](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#5-Light-Dependent-Resistor-LDR-Module)
   - [5V Piezoelectric Buzzer](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#6-5V-Piezoelectric-Buzzer)
   - [ESP8266 Wi-Fi Module](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#7-ESP8266-Wi-Fi-Module)
 - [Working Code](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#Working-Code)
