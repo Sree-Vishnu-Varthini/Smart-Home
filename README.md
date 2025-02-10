@@ -326,7 +326,7 @@ void loop() {
 
 https://github.com/user-attachments/assets/d61cbf85-8a01-4065-b9d7-003ee2cd630d
 
-This video demonstrates the working and implementation of a fire detection system.
+📢 This video demonstrates the working and implementation of a fire detection system.
 - The flame sensor is connected to the Aries v3.0 board to detect the presence of fire.
 - The sensor continuously monitors for flames and sends real-time data to the Arduino.
 - The Arduino receives the sensor data and processes it accordingly.
@@ -342,7 +342,7 @@ https://github.com/user-attachments/assets/d8a27665-8dd0-4c48-a1c8-66d9cad4cc77
 
 https://github.com/user-attachments/assets/a7c87fcd-87e8-4e0f-b2f3-a0556c34ada8
 
-This video demonstrates the working and implementation of an automatic light control system using an LDR (Light Dependent Resistor) sensor.
+📢 This video demonstrates the working and implementation of an automatic light control system using an LDR (Light Dependent Resistor) sensor.
 - The LDR module is connected to the Aries v3.0 board to detect changes in ambient light levels.
 - The sensor continuously monitors the surrounding light intensity and sends real-time data to the Arduino.
 - The Arduino processes the received data and displays the readings in the Serial Monitor.
@@ -356,7 +356,7 @@ This video demonstrates the working and implementation of an automatic light con
 
 https://github.com/user-attachments/assets/8e39206d-2036-4223-8251-fb5d98c39daa
 
-This video demonstrates the working and implementation of an air quality monitoring and automation system using the MQ-135 gas sensor.
+📢 This video demonstrates the working and implementation of an air quality monitoring and automation system using the MQ-135 gas sensor.
 - The MQ-135 gas sensor module is connected to the Aries v3.0 board to detect changes in air quality.
 - The sensor continuously monitors the surrounding air and sends real-time data to the Arduino.
 - The Arduino processes the received data and displays the air quality readings in the Serial Monitor.
@@ -371,7 +371,7 @@ This video demonstrates the working and implementation of an air quality monitor
 
 https://github.com/user-attachments/assets/49890077-9847-451e-918a-f1e012c9c470
 
-This video demonstrates an automated lighting system using a PIR sensor for motion-based automation.
+📢 This video demonstrates an automated lighting system using a PIR sensor for motion-based automation.
 - The PIR sensor module is connected to the Aries v3.0 board to detect motion from living beings.
 - The sensor continuously monitors the surroundings and sends real-time data to the Arduino.
 - The Arduino processes the received data and displays the readings in the Serial Monitor.
