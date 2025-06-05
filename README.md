@@ -430,17 +430,17 @@ https://github.com/user-attachments/assets/49890077-9847-451e-918a-f1e012c9c470
 
 ![Thingspeak Monitoring 1](https://github.com/user-attachments/assets/074efb72-e4f2-492f-be98-4b63b59a4ff0)
 
-![WhatsApp Image 2025-02-10 at 19 24 31_912cb24b](https://github.com/user-attachments/assets/f2b2f2be-c716-4245-9e1a-de15feb79477)
+![Thingspeak Monitoring 1](https://github.com/user-attachments/assets/f2b2f2be-c716-4245-9e1a-de15feb79477)
 
 
 ![Thingspeak Monitoring 2](https://github.com/user-attachments/assets/baa732a2-ce27-40e7-8878-d7ecedf3b64a)
 
-![WhatsApp Image 2025-02-10 at 19 25 03_fbceacbe](https://github.com/user-attachments/assets/7f128ce7-3506-4948-8c5a-f7fef410cfca)
+![Thingspeak Monitoring 2](https://github.com/user-attachments/assets/7f128ce7-3506-4948-8c5a-f7fef410cfca)
 
 
 ![Thingspeak Monitoring 3](https://github.com/user-attachments/assets/0680aae4-5702-426a-8d14-8ec406153a37)
 
-![WhatsApp Image 2025-02-10 at 19 25 31_0798b9ea](https://github.com/user-attachments/assets/bdc570c9-4854-4535-920e-902320c6f2bb)
+![Thingspeak Monitoring 3](https://github.com/user-attachments/assets/bdc570c9-4854-4535-920e-902320c6f2bb)
 
 
 ## Contributors
