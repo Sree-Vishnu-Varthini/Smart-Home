@@ -1,4 +1,4 @@
-# 🏡 IoT-Powered Smart Home Automation System
+# 🏡 Lumicore - An IoT-Powered Smart Home Automation System
 
 This repository presents the design and implementation of an IoT-powered Smart Home Automation System using various sensors and IoT platforms. It leverages real-time monitoring, automation and remote control to enhance home safety, energy efficiency and convenience.
 
