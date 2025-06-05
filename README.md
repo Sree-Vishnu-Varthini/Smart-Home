@@ -330,6 +330,9 @@ void loop() {
 
 https://github.com/user-attachments/assets/d61cbf85-8a01-4065-b9d7-003ee2cd630d
 
+https://github.com/user-attachments/assets/6b86c2c3-96d8-472a-99a8-01b4a7b8d008
+
+
 ```bash
 📢 This video demonstrates the working and implementation of a fire detection system.
 
@@ -354,7 +357,13 @@ https://github.com/user-attachments/assets/d61cbf85-8a01-4065-b9d7-003ee2cd630d
 
 https://github.com/user-attachments/assets/d8a27665-8dd0-4c48-a1c8-66d9cad4cc77
 
+https://github.com/user-attachments/assets/f52833c3-f82d-4697-b8df-d09ca6ae1f70
+
+
 https://github.com/user-attachments/assets/a7c87fcd-87e8-4e0f-b2f3-a0556c34ada8
+
+https://github.com/user-attachments/assets/0be890b0-3524-419d-b373-72471a379a4a
+
 
 ```bash
 📢 This video demonstrates the working and implementation of an automatic light control system using an LDR (Light Dependent Resistor) sensor.
@@ -379,6 +388,8 @@ https://github.com/user-attachments/assets/a7c87fcd-87e8-4e0f-b2f3-a0556c34ada8
 ### Ventilation
 
 https://github.com/user-attachments/assets/8e39206d-2036-4223-8251-fb5d98c39daa
+
+https://github.com/user-attachments/assets/ef8bd489-01ae-4cd0-a305-91cbf926a70c
 
 ```bash
 📢 This video demonstrates the working and implementation of an air quality monitoring and automation system using the MQ-135 gas sensor.
@@ -406,6 +417,8 @@ https://github.com/user-attachments/assets/8e39206d-2036-4223-8251-fb5d98c39daa
 ### Motion Detection
 
 https://github.com/user-attachments/assets/49890077-9847-451e-918a-f1e012c9c470
+
+https://github.com/user-attachments/assets/c8e669f7-299a-41be-a335-42a507d0e8ee
 
 ```bash
 📢 This video demonstrates an automated lighting system using a PIR sensor for motion-based automation.
