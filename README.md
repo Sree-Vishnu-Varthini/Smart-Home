@@ -27,6 +27,7 @@ This repository presents the design and implementation of an IoT-powered Smart H
    - [Ventilation](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#Ventilation)
    - [Motion Detection](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#Motion-Detection)
    - [Thingspeak Monitoring](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#Thingspeak-Monitoring)
+- [Final Product](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#Final-Product)
 - [Contributors](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#Contributors)
 - [Acknowledgements](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#Acknowledgements)
 - [Contact Information](https://github.com/Sree-Vishnu-Varthini/Smart-Home/#Contact-Information)
@@ -424,7 +425,7 @@ https://github.com/user-attachments/assets/c8e669f7-299a-41be-a335-42a507d0e8ee
 
 ![Thingspeak Monitoring 3](https://github.com/user-attachments/assets/bdc570c9-4854-4535-920e-902320c6f2bb)
 
-### Final Product
+## Final Product
 
 ![Final Product](https://github.com/user-attachments/assets/5307029a-00e3-4bcc-a318-2e3a829341ea)
 
