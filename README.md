@@ -109,14 +109,9 @@ This project is designed for individuals and organizations seeking to enhance ho
 | **Micro USB Cable**           | 1        | For programming and power supply               | [Micro USB Cable](https://robu.in/product/10-inch-micro-usb-cable-a-to-micro-b/) ||
 
 ## Block Diagram
-![DIR-V HACKATHON 2](https://github.com/user-attachments/assets/d7b360af-fa94-41d3-ab6f-ab45c0b83994)
-
 ![DIR-V HACKATHON 2](https://github.com/user-attachments/assets/b58cfc63-2857-4010-93af-b9174084eac0)
 
  ## Circuit Diagram
-
-![DIR-V HACKATHON](https://github.com/user-attachments/assets/2fca989c-28d0-4fb2-8e54-e434f656eb04)
-
 ![DIR-V HACKATHON](https://github.com/user-attachments/assets/879c27a2-020c-4265-8a10-2229bec291a3)
 
 ## Pin Connections
@@ -328,8 +323,6 @@ void loop() {
 
 ### Fire Alarm
 
-https://github.com/user-attachments/assets/d61cbf85-8a01-4065-b9d7-003ee2cd630d
-
 https://github.com/user-attachments/assets/6b86c2c3-96d8-472a-99a8-01b4a7b8d008
 
 
@@ -349,21 +342,14 @@ https://github.com/user-attachments/assets/6b86c2c3-96d8-472a-99a8-01b4a7b8d008
 ➤ The buzzer is activated as an alarm to notify individuals of the imminent danger.
 ```
 
-![Fire Detection](https://github.com/user-attachments/assets/01892051-851a-424e-bbab-d0173c7e4849)
 
 ![Fire Detection](https://github.com/user-attachments/assets/ac4412f3-ef4b-4a16-8e20-404050580082)
 
 ### Light Intensity Control (Light ON/OFF)
 
-https://github.com/user-attachments/assets/d8a27665-8dd0-4c48-a1c8-66d9cad4cc77
-
-https://github.com/user-attachments/assets/f52833c3-f82d-4697-b8df-d09ca6ae1f70
-
-
-https://github.com/user-attachments/assets/a7c87fcd-87e8-4e0f-b2f3-a0556c34ada8
-
 https://github.com/user-attachments/assets/0be890b0-3524-419d-b373-72471a379a4a
 
+https://github.com/user-attachments/assets/f52833c3-f82d-4697-b8df-d09ca6ae1f70
 
 ```bash
 📢 This video demonstrates the working and implementation of an automatic light control system using an LDR (Light Dependent Resistor) sensor.
@@ -381,13 +367,9 @@ https://github.com/user-attachments/assets/0be890b0-3524-419d-b373-72471a379a4a
 ➤ To simulate darkness in this video, the LDR sensor is covered using a box, demonstrating how the system responds in low-light conditions.
 ```
 
-![Light Intensity](https://github.com/user-attachments/assets/fed29bd8-92c5-43c1-b53f-8244606c48e8)
-
 ![Light Intensity](https://github.com/user-attachments/assets/b5c213d8-4168-45e6-8dc2-ac0afb087b21)
 
 ### Ventilation
-
-https://github.com/user-attachments/assets/8e39206d-2036-4223-8251-fb5d98c39daa
 
 https://github.com/user-attachments/assets/ef8bd489-01ae-4cd0-a305-91cbf926a70c
 
@@ -409,14 +391,10 @@ https://github.com/user-attachments/assets/ef8bd489-01ae-4cd0-a305-91cbf926a70c
 ➤ In this video, the light bulb is used temporarily to demonstrate the system’s functionality.
 ```
 
-![Ventilation](https://github.com/user-attachments/assets/7f73b655-8151-43f2-8948-1eaa1d40fc1a)
-
 ![Ventilation](https://github.com/user-attachments/assets/a4e206d7-ca1b-4d1a-b1c5-d245291cc951)
 
 
 ### Motion Detection
-
-https://github.com/user-attachments/assets/49890077-9847-451e-918a-f1e012c9c470
 
 https://github.com/user-attachments/assets/c8e669f7-299a-41be-a335-42a507d0e8ee
 
@@ -434,24 +412,16 @@ https://github.com/user-attachments/assets/c8e669f7-299a-41be-a335-42a507d0e8ee
 ➤ When no motion is detected, the system turns off the light bulb, conserving energy.
 ```
 
-![Motion Detection](https://github.com/user-attachments/assets/db2da071-9d90-44bc-93af-8020e7e6f023)
 
 ![Motion Detection](https://github.com/user-attachments/assets/4f9a20b4-f317-4602-bfc1-1746834a4f59)
 
 
 ### Thingspeak Monitoring
 
-![Thingspeak Monitoring 1](https://github.com/user-attachments/assets/074efb72-e4f2-492f-be98-4b63b59a4ff0)
 
 ![Thingspeak Monitoring 1](https://github.com/user-attachments/assets/f2b2f2be-c716-4245-9e1a-de15feb79477)
 
-
-![Thingspeak Monitoring 2](https://github.com/user-attachments/assets/baa732a2-ce27-40e7-8878-d7ecedf3b64a)
-
 ![Thingspeak Monitoring 2](https://github.com/user-attachments/assets/7f128ce7-3506-4948-8c5a-f7fef410cfca)
-
-
-![Thingspeak Monitoring 3](https://github.com/user-attachments/assets/0680aae4-5702-426a-8d14-8ec406153a37)
 
 ![Thingspeak Monitoring 3](https://github.com/user-attachments/assets/bdc570c9-4854-4535-920e-902320c6f2bb)
 
